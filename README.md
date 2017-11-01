@@ -2,10 +2,10 @@
 
 I am using Machine Learning to create a text based assistant that will support the following features:
 
-1.Understand the context of natural language and answer simple questions
-2.Display files using simple human like instructions
-3.Run programs
-4.Perform Web Searches and return results.
+1. Understand the context of natural language and answer simple questions
+2. Display files using simple human like instructions
+3. Run programs
+4. Perform Web Searches and return results.
 
 
 I will add some more features soon!
